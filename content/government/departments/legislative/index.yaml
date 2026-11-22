@@ -1,0 +1,25 @@
+# legislative Department Pages
+# This file contains all the pages/governments/departments/legislative available under the Department
+#
+layout: grid
+title: 'Sangguniang Bayan of Claver'
+description: 'Members of the Sangguniang Bayan (Municipal Council) for the 2025 to 2028 term. Source: Wikipedia.'
+pages:
+  - name: 'Leah D. Patan'
+    description: 'Vice Mayor and Presiding Officer'
+  - name: 'Rhudney G. Basul'
+    description: 'Councilor'
+  - name: 'Jaypee James N. Nasayao'
+    description: 'Councilor'
+  - name: 'Redeemer A. Gabunada'
+    description: 'Councilor'
+  - name: 'Reygie Boy E. Escutin'
+    description: 'Councilor'
+  - name: 'Jemuel N. Galgo'
+    description: 'Councilor'
+  - name: 'Maria Jane D. Jatulan'
+    description: 'Councilor'
+  - name: 'Ernesto P. Sulapas'
+    description: 'Councilor'
+  - name: 'Jourdan P. Moralde'
+    description: 'Councilor'
